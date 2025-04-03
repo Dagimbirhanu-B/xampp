@@ -1,1 +1,1 @@
-# xampp
+# xampp  phpmyadmin 
