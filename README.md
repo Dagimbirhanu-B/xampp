@@ -3,3 +3,4 @@ if the following error happen while you want to access phpmyadmin to get list of
 ![Alt text](image/phpmyadmin.png)
 
 # follow the following step to fix 
+![Alt text](image/image1.png)
